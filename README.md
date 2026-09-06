@@ -1,60 +1,73 @@
-&lt;h1 align="center"&gt;Hi, I'm ppanchal13 👋&lt;/h1&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI%2FML+Engineer;Building+AI-powered+dev+tools;Open+to+collaborations" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<h1 align="center">Hi, I'm Parth Panchal 👋</h1>
 
-&lt;p align="center"&gt;
-  &lt;a href="https://linkedin.com/in/parth"&gt;&lt;img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/&gt;&lt;/a&gt;
-  &lt;a href="mailto:netbusterfc@example.com"&gt;&lt;img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;AI%2FML+Engineer;Building+AI-powered+developer+tools;Open+to+internships+and+collaborations" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parth-panchal-914b3141a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:parthpanchal3683@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## About Me
 
-- Computer Engineering at **NMIMS, Navi Mumbai** (Class of 2027)
-- Building **AI-powered dev tools** and **full-stack apps**
-- Currently working on: AI Code Review Agent + Document Intelligence Platform
-- Open to internships and collaborations
+- 🎓 Computer Engineering student at **NMIMS, Navi Mumbai** — Class of 2027
+- 💻 Building **AI-powered developer tools** and **full-stack applications**
+- 🚀 Currently working on an **AI Code Review Agent** and a **Document Intelligence Platform**
+- 🤝 Open to internships, collaborations and interesting projects
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ## Featured Projects
 
-### AI Code Review Agent
-&gt; Auto-reviews GitHub PRs using LLMs. Leaves inline comments, detects bugs.
-&gt; 
-&gt; **Tech:** Python, FastAPI, LangChain, OpenAI, React
-&gt; 
-&gt; [View Repo](https://github.com/parth/ai-code-reviewer)
+### 🤖 AI Code Review Agent
 
-### Smart Document Intelligence
-&gt; Upload PDFs → AI answers questions with citations.
-&gt; 
-&gt; **Tech:** Python, FastAPI, LangChain, Vector DB, React
-&gt; 
-&gt; [View Repo](https://github.com/parth/doc-intelligence-platform)
+Automatically reviews GitHub pull requests using LLMs, detects potential bugs and provides inline feedback.
+
+**Tech:** Python, FastAPI, LangChain, OpenAI and React
+
+[View repository](https://github.com/ppanchal13/ai-code-reviewer)
+
+---
+
+### 📄 Smart Document Intelligence
+
+A document-analysis platform that lets users upload PDFs and receive AI-generated answers with citations.
+
+**Tech:** Python, FastAPI, LangChain, Vector Database and React
+
+[View repository](https://github.com/ppanchal13/doc-intelligence-platform)
 
 ## GitHub Stats
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=parth&show_icons=true&theme=default&hide_border=true" /&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=parth&hide_border=true" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ppanchal13&show_icons=true&theme=default&hide_border=true" alt="Parth's GitHub statistics" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ppanchal13&hide_border=true" alt="Parth's GitHub streak" />
+</p>
 
 ## Contribution Graph
 
-&lt;p align="center"&gt;
-  &lt;img src="https://raw.githubusercontent.com/parth/parth/output/github-contribution-grid-snake.svg" alt="Snake animation" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ppanchal13/ppanchal13/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
 ---
 
 ## Let's Connect!
 
-- LinkedIn: www.linkedin.com/in/parth-panchal-914b3141a
-- Email: parthpanchal3683@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/parth-panchal-914b3141a)
+- [Email](mailto:parthpanchal3683@gmail.com)
