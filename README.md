@@ -88,37 +88,42 @@ The system combines **multi-metric environmental reasoning** with a structured k
 
 ### 📧 AI-Based Spam Email Classifier
 
-A machine-learning system designed to classify emails as **spam or non-spam** using natural-language processing techniques.
+A machine-learning web application designed to classify text messages as **spam or not spam** using natural-language processing and supervised machine learning.
 
-Text data is transformed using **TF-IDF vectorization** and processed by a machine-learning classification model to predict whether an email is spam.
+The system transforms incoming text using **TF-IDF vectorization** and processes it through a **Logistic Regression classifier** to generate a prediction along with model confidence.
 
-**Key Concepts:**
-- Natural Language Processing
-- Text preprocessing
-- TF-IDF vectorization
-- Machine-learning classification
+**Key Features:**
+- TF-IDF text vectorization
+- Logistic Regression classification
+- 97.67% test accuracy
+- Spam / Not Spam prediction
+- Prediction confidence display
+- Interactive Flask web interface
 
-**Tech:** Python · Scikit-learn · TF-IDF · Flask
+**Tech:** Python · Flask · Scikit-learn · Pandas · TF-IDF · Logistic Regression
 
-🚧 *Currently under development*
+🔗 [View Repository](https://github.com/ppanchal13/ai-spam-email-classifier)
 
 ---
 
-### 🎬 AI-Powered Movie Recommendation System
+### 🎬 AI Movie Recommendation System
 
-A content-based movie recommendation system that suggests movies according to similarity between movie features and user preferences.
+A content-based movie recommendation system that suggests similar movies by analyzing movie metadata.
 
-The recommendation engine uses **cosine similarity** to identify related movies and generate relevant suggestions.
+The recommendation engine combines **genres, keywords and plot descriptions**, converts the combined information into feature vectors using **TF-IDF**, and applies **cosine similarity** to identify related movies.
 
-**Key Concepts:**
-- Recommendation systems
-- Content-based filtering
-- Feature similarity
-- Cosine similarity
+**Key Features:**
+- Content-based movie recommendations
+- Genre, keyword and plot analysis
+- TF-IDF feature extraction
+- Cosine-similarity ranking
+- Top 5 similar movie recommendations
+- Similarity score display
+- Interactive Flask web interface
 
-**Tech:** Python · Pandas · Scikit-learn · Flask · MySQL
+**Tech:** Python · Flask · Pandas · Scikit-learn · TF-IDF · Cosine Similarity
 
-🚧 *Currently under development*
+🔗 [View Repository](https://github.com/ppanchal13/ai-movie-recommendation-system)
 
 ---
 
