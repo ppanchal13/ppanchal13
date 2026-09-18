@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Parth Panchal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;AI%2FML+Engineer;Building+AI-powered+developer+tools;Open+to+internships+and+collaborations" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI%2FML+%26+Full-Stack+Developer;Building+Intelligent+Applications;Open+to+Internships+%26+Collaborations" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -13,53 +13,136 @@
   </a>
 </p>
 
-## About Me
+---
+
+## 👨‍💻 About Me
 
 - 🎓 Computer Engineering student at **NMIMS, Navi Mumbai** — Class of 2027
-- 💻 Building **AI-powered developer tools** and **full-stack applications**
-- 🚀 Currently working on an **AI Code Review Agent** and a **Document Intelligence Platform**
-- 🤝 Open to internships, collaborations and interesting projects
+- 🤖 Interested in **AI/ML, intelligent backend systems and full-stack development**
+- 🌿 Recently built an **evidence-backed biodiversity intelligence system** using Python and FastAPI
+- 🧠 Exploring **RAG, AI agents, retrieval systems and applied machine learning**
+- 🚀 Enjoy building practical applications that combine **AI with real-world problem solving**
+- 🤝 Open to **AI/ML and Software Engineering internships**, collaborations and interesting projects
 
-## Tech Stack
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-## Featured Projects
+### Backend & Web
 
-### 🤖 AI Code Review Agent
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
-Automatically reviews GitHub pull requests using LLMs, detects potential bugs and provides inline feedback.
+### AI / Machine Learning
 
-**Tech:** Python, FastAPI, LangChain, OpenAI and React
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
-[View repository](https://github.com/ppanchal13/ai-code-reviewer)
+### Databases & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ---
 
-### 📄 Smart Document Intelligence
+## 🚀 Featured Projects
 
-A document-analysis platform that lets users upload PDFs and receive AI-generated answers with citations.
+### 🌿 Darukaa Biodiversity Intelligence AI
 
-**Tech:** Python, FastAPI, LangChain, Vector Database and React
+An evidence-backed environmental decision-support system designed to analyze multiple ecological variables and generate scientifically grounded biodiversity recommendations.
 
-[View repository](https://github.com/ppanchal13/doc-intelligence-platform)
+The system combines **multi-metric environmental reasoning** with a structured knowledge base and retrieval system to connect factors such as soil health, rainfall, land use and habitat conditions.
 
-## GitHub Stats
+**Key Features:**
+- Multi-metric environmental reasoning
+- Structured environmental knowledge base
+- TF-IDF based knowledge retrieval
+- Cosine-similarity ranking
+- Evidence-backed recommendations
+- Scientific source attribution
+- Clarifying questions for incomplete inputs
+- Structured FastAPI endpoints
+
+**Tech:** Python · FastAPI · Scikit-learn · TF-IDF · Cosine Similarity · JSON
+
+🔗 [View Repository](https://github.com/ppanchal13/darukaa-biodiversity-ai)
+
+---
+
+### 📧 AI-Based Spam Email Classifier
+
+A machine-learning system designed to classify emails as **spam or non-spam** using natural-language processing techniques.
+
+Text data is transformed using **TF-IDF vectorization** and processed by a machine-learning classification model to predict whether an email is spam.
+
+**Key Concepts:**
+- Natural Language Processing
+- Text preprocessing
+- TF-IDF vectorization
+- Machine-learning classification
+
+**Tech:** Python · Scikit-learn · TF-IDF · Flask
+
+🚧 *Currently under development*
+
+---
+
+### 🎬 AI-Powered Movie Recommendation System
+
+A content-based movie recommendation system that suggests movies according to similarity between movie features and user preferences.
+
+The recommendation engine uses **cosine similarity** to identify related movies and generate relevant suggestions.
+
+**Key Concepts:**
+- Recommendation systems
+- Content-based filtering
+- Feature similarity
+- Cosine similarity
+
+**Tech:** Python · Pandas · Scikit-learn · Flask · MySQL
+
+🚧 *Currently under development*
+
+---
+
+## 🔬 Currently Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Semantic Search & Embeddings
+- Vector Databases
+- LLM-powered applications
+- Intelligent backend systems
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ppanchal13&show_icons=true&theme=default&hide_border=true" alt="Parth's GitHub statistics" />
   <img height="165" src="https://streak-stats.demolab.com?user=ppanchal13&hide_border=true" alt="Parth's GitHub streak" />
 </p>
 
-## Contribution Graph
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ppanchal13/ppanchal13/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
@@ -67,7 +150,15 @@ A document-analysis platform that lets users upload PDFs and receive AI-generate
 
 ---
 
-## Let's Connect!
+## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/parth-panchal-914b3141a)
-- [Email](mailto:parthpanchal3683@gmail.com)
+I'm always interested in discussing **AI/ML, software development, internships and collaborative projects**.
+
+<p>
+  <a href="https://www.linkedin.com/in/parth-panchal-914b3141a">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:parthpanchal3683@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
